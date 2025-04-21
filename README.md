@@ -16,5 +16,3 @@ As a Product Analyst on the ChatGPT team, the goal is to identify trends in user
 3. **Top 5 Most Active Users in August 2024:**  
    Identify the top 5 users with the most queries in August 2024 by their first and last name.
 
-## About the Analyst
-Faith Ada Mbonu is a passionate data analyst with a background in healthcare and a growing portfolio of SQL projects focused on user engagement, digital behavior, and content optimization. This project is part of a hands-on journey to master analytics for real-world impact.
